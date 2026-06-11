@@ -35,7 +35,7 @@ function iniciar() {
 /* FUNDO */
 const imagens = Array.from(
     { length: 18},
-    (_, i) => `imagens/foto${i + 1}.jpg`
+    (_, i) => `foto${i + 1}.jpg`
 );
 
 function criarFundo() {
