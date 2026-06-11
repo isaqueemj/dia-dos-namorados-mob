@@ -110,7 +110,7 @@ body {
 }
 /* 🔥 EFEITO TIJOLO (OFFSET) */
 .bg img:nth-child(odd) {
-    transform: translateY(60px);
+    transform: translateY(30px);
 }
 
 
